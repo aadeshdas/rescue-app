@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624295377328",
+    "project_id": "rescue-f563a",
+    "storage_bucket": "rescue-f563a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624295377328:android:ba343237833ff2f62efe75",
+        "android_client_info": {
+          "package_name": "com.example.rescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624295377328-j5jmqlc9o3lfqma1at3dquv35rp7idng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWay2xgqjjxvxoqBDMII1oIyYJuKJWZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624295377328-j5jmqlc9o3lfqma1at3dquv35rp7idng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
